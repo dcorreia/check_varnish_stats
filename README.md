@@ -62,3 +62,5 @@ EXAMPLES
 
   Check varnish client requests and drops
   ./check_varnish.pl -s client_drop,client_req
+  
+ For more information check out http://www.sixhop.net/.
